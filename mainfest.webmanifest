@@ -1,0 +1,22 @@
+{
+    "name":"food receipe app",
+    "short_name":"food receipe app",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#000000",
+    "theme_color":"#000000",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+        "src":"/img/192.png",
+        "types":"image/png",
+        "sizes" : "192x192"
+    },
+    {
+        "src":"/img/512.png",
+        "types":"image/png",
+        "sizes" : "512x512"
+
+    }
+]
+}
