@@ -5,8 +5,6 @@ const CONTENTS =[
     '/app.js',
     '/main.js',
     '/style.css',
-    '/img/72.png',
-    '/img/96.png',
     '/img/192.png',
     '/img/512.png'
 ];
