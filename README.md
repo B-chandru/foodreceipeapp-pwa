@@ -11,5 +11,5 @@ https://b-chandru.github.io/foodreceipeapp-pwa/
 
 -in this website we have used api.
 
--the api used in this website is 
+- api used in this website is https://www.themealdb.com/api/json/v1/1/random.php .
 
