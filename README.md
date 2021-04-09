@@ -3,7 +3,7 @@
 it is responsive website and progressive web app.
 
 ### live site
-https://b-chandru.github.io/foodreceipeapp-pwa/
+https://b-chandru.github.io/foodrecipeapp-pwa/
 
 ## introduction
 
