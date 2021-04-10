@@ -26,6 +26,6 @@ function displayMeals(meals){
  <h2 id="in">instruction</h2>
     <p> ${meals.strInstructions}<p>
 </div>`
-video.innerHTML=`<h2 id="h4">VIDEO TUTORIAL OF THIS RECEPIE</h2>
+video.innerHTML=`<h2 id="h4">VIDEO TUTORIAL OF THIS RECIPE</h2>
 <iframe src="https://www.youtube.com/embed/${meals.strYoutube.slice(-11)}" width="500px" height="350px" id="if"></iframe> `;
 }
